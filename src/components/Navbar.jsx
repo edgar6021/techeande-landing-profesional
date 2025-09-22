@@ -8,6 +8,7 @@ const Navbar = () => {
         <ul className="flex gap-4">
           <li><a href="#services" className="hover:underline">Servicios</a></li>
           <li><a href="#contact" className="hover:underline">Contacto</a></li>
+          <li><a href="#contact" className="hover:underline">Home</a></li>
         </ul>
       </div>
     </nav>
